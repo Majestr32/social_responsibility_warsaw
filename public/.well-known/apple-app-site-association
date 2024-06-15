@@ -1,0 +1,13 @@
+{
+  "applinks":{
+    "apps":[],
+    "details":[
+      {
+        "appID":
+          "P9C22T92US.com.pandascode.flashcards.ios",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
+
